@@ -3,4 +3,4 @@ mod 'aws_tags',
   :ref => 'a2b9a1d'
 mod 'puppet_module',
   :git => 'https://github.com/ChristopherMotes/puppet_module',
-  :ref => 'bf33140',
+  :ref => 'bf33140'
